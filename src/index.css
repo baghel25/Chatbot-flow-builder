@@ -11,3 +11,24 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* css code */
+/* .dndflow {
+  display: flex;
+}
+
+.reactflow-wrapper {
+  flex-grow: 1;
+}
+
+.nodes-panel,
+.settings-panel {
+  width: 200px;
+  padding: 10px;
+  background: #f7f7f7;
+  border-right: 1px solid #ccc;
+}
+
+button {
+  margin-top: 10px;
+} */
+
