@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chatbot-flow-builder/static/css/main.a22bc26a.css",
+    "main.js": "/Chatbot-flow-builder/static/js/main.28225712.js",
+    "static/js/453.d7a41071.chunk.js": "/Chatbot-flow-builder/static/js/453.d7a41071.chunk.js",
+    "static/media/msgFilled.png": "/Chatbot-flow-builder/static/media/msgFilled.8ccbd80286cda733ca70.png",
+    "index.html": "/Chatbot-flow-builder/index.html",
+    "main.a22bc26a.css.map": "/Chatbot-flow-builder/static/css/main.a22bc26a.css.map",
+    "main.28225712.js.map": "/Chatbot-flow-builder/static/js/main.28225712.js.map",
+    "453.d7a41071.chunk.js.map": "/Chatbot-flow-builder/static/js/453.d7a41071.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a22bc26a.css",
+    "static/js/main.28225712.js"
+  ]
+}
